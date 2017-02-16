@@ -1,3 +1,5 @@
+![alt text](http://www.naveensundarg.com/images/prover_logo.png "logo")
+
 ## Theory
 
 ![alt text](http://www.naveensundarg.com/images/shadow.png "shadow")
